@@ -1,7 +1,7 @@
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "neptune " .. Fluent.Version,
+    Title = "vault " .. Fluent.Version,
     SubTitle = "by Dot",
     TabWidth = 110,
     Size = UDim2.fromOffset(500, 300),
